@@ -1,0 +1,12 @@
+db_config:
+    host: localhost
+    user: root
+    db: mysql
+    password: root
+
+intercom_config:
+    access_token: "AAAAAmonumentYYYYYYYlabs12it364863"
+    update_api_url: "https://api.intercom.io/users"
+    user_name_key: "name"
+    user_id_key: "user_id"
+    user_email_key: "email"
